@@ -1,2 +1,1 @@
-# hello-world
-First Project
+AsherMaster's first project ever!
